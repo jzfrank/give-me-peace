@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/give-me-peace/static/css/main.9eabcbbc.css",
+    "main.js": "/give-me-peace/static/js/main.157ba111.js",
+    "static/js/787.0d72bbc4.chunk.js": "/give-me-peace/static/js/787.0d72bbc4.chunk.js",
+    "static/media/logo.svg": "/give-me-peace/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/give-me-peace/index.html",
+    "main.9eabcbbc.css.map": "/give-me-peace/static/css/main.9eabcbbc.css.map",
+    "main.157ba111.js.map": "/give-me-peace/static/js/main.157ba111.js.map",
+    "787.0d72bbc4.chunk.js.map": "/give-me-peace/static/js/787.0d72bbc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eabcbbc.css",
+    "static/js/main.157ba111.js"
+  ]
+}
